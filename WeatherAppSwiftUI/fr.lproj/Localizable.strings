@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  WeatherAppSwiftUI
+
+  Created by Lukas Mauffré on 10/02/2020.
+  Copyright © 2020 Lukas Mauffré. All rights reserved.
+*/
+
+"sunny" = "Ensoleillé";
+"weatherForecast" = "Prévisions météo";
+"maxTemp" = "Température max. 32 °C";
+"minTemp" = "Température min. 5 °C";
+"cloudy" = "Nuageux";
+"sunset" = "Crépuscule";
+"weatherAppIs" = "WeatherApp est juste une application simple que j’ai réalisé qui est basée sur l’API X.";
+"CorF" = "Choisissez entre le degré Celsius et le degré Fahrenheit?";
+"CorFshort" = "Celsius ou Fahrenheit";
+"socialNetworks" = "RÉSEAUX SOCIAUX";
+"emailMe" = "Contactez-moi";
+"followMe" = "Suivez-moi s'il vous plaît !";
+"aboutTheApp" = "À propos de l'application";
+"appVersion" = "Version de l'application";
+"credits" = "Crédits";
+"madeWithLove" = "Fait avec ❤️ par  Lukas en France 🇫🇷";
+"about" = "À propos";
+"done" = "OK";

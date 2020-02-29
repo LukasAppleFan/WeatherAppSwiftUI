@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  WeatherAppSwiftUI
+
+  Created by Lukas Mauffré on 10/02/2020.
+  Copyright © 2020 Lukas Mauffré. All rights reserved.
+*/
+
+"sunny" = "Sunny";
+"weatherForecast" = "Weather Forecast";
+"maxTemp" = "Max. Temperature 32 °F";
+"minTemp" = "Min. Temperature 5 °F";
+"cloudy" = "Cloudy";
+"sunset" = "Sunset";
+"weatherAppIs" = "WeatherApp is just a simple app I've made that is based on the X API.";
+"CorF" = "Do you prefer degree Celsius or degree Fahrenheit ?";
+"CorFshort" = "Celsius or Fahrenheit";
+"socialNetworks" = "SOCIAL NETWORKS";
+"emailMe" = "Email me";
+"followMe" = "Follow me please!";
+"aboutTheApp" = "About the app";
+"appVersion" = "App version";
+"credits" = "Credits";
+"madeWithLove" = "Made with ❤️ by  Lukas in France 🇫🇷";
+"about" = "About";
+"done" = "Done";
